@@ -1,6 +1,6 @@
 # app-dev
  My first repository
-# My Favorite Movie: Spider-Man 3 🕷️
+# My Favorite Movie: Spider-Man 3 
 
 **Spider-Man 3** is a *2007 superhero film* directed by Sam Raimi. It concludes the original trilogy starring Tobey Maguire as Peter Parker.
 
